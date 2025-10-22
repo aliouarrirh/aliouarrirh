@@ -9,7 +9,7 @@ Hi there 👋, I'm Ali Ouarrirh — an AI student,  passionate Data & MLOps enth
  
  ⚙️ Experimenting with tools like MLflow, Docker, FastAPI, and Prefect.
 
-   #“Don’t just train models — deploy value.” 💡
+ # “Don’t just train models — deploy value.” 💡
 
 
 ## 🌐 Socials:
