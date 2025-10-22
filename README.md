@@ -9,6 +9,8 @@ Hi there 👋, I'm Ali Ouarrirh — an AI student,  passionate Data & MLOps enth
  
  ⚙️ Experimenting with tools like MLflow, Docker, FastAPI, and Prefect.
 
+   #“Don’t just train models — deploy value.” 💡
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliouarrirh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ouarrirh-260168266/?originalSubdomain=ma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aouarrirh) 
