@@ -1,13 +1,13 @@
 # 💫 About Me:
 Hi there 👋, I'm Ali Ouarrirh — an AI student,  passionate Data & MLOps enthusiast driven by the idea of building intelligent systems that actually work in production.
 
-    🎯 Currently focused on Machine Learning Deployment, MLOps, and Cloud Infrastructure (AWS & Azure).
-
-    🧠 Love turning ML models into scalable services - from training to deployment and monitoring.
-
-    🧩 Interested in data pipelines, automation, and how AI can power real-world business impact.
-
-    ⚙️ Experimenting with tools like MLflow, Docker, FastAPI, and Prefect.
+ 🎯 Currently focused on Machine Learning Deployment, MLOps, and Cloud Infrastructure (AWS & Azure).
+ 
+ 🧠 Love turning ML models into scalable services - from training to deployment and monitoring.
+ 
+ 🧩 Interested in data pipelines, automation, and how AI can power real-world business impact.
+ 
+ ⚙️ Experimenting with tools like MLflow, Docker, FastAPI, and Prefect.
 
 
 ## 🌐 Socials:
